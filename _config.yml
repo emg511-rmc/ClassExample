@@ -10,15 +10,15 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://emg511-rmc.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /ClassHmwk
+baseurl: /ClassExample
 # location of code, the full url to your github repository
-source-code: https://github.com/emg511-rmc/ClassHmwk
+source-code: https://github.com/emg511-rmc/ClassExample
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: emg511-rmc/ClassHmwk 
+title: emg511-rmc/ClassExample
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
